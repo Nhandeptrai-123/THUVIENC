@@ -1,0 +1,36 @@
+.form{
+    background-color: aliceblue;
+    width: 290px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+form{
+    text-align: center;
+    padding-top: 20px;
+}
+#chua{
+    color: rgb(50, 49, 49);
+}
+.chu1{
+    float: left;
+}
+@media only screen  and (max-width: 430px){
+    .styled-heading {
+        color: #2a2b2c;
+        text-align: center;
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 10px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2), 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .footer{
+        padding-top: 100px;
+        /* border: 1px solid #D9EEE1; */
+    }
+    .tong{
+        padding-top: 10px;
+    }
+    .tong1{
+        margin-top: 10px;
+    }
+}
